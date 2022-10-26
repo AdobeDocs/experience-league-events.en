@@ -1,7 +1,6 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
-feature-set: Experience Cloud
 product: experience cloud
 description: Collection of recordings from the Adobe live-streamed events.
 type: Event
